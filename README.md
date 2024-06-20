@@ -35,7 +35,7 @@ This is a social media website built using Django. The project includes various 
 
 4. **Navigate to the project directory:**
    ```sh
-   cd social_media_website_django
+   cd social_media
     ```
 
 5. **Install the required dependencies:**
@@ -53,7 +53,9 @@ This is a social media website built using Django. The project includes various 
    ```
 
 7. **Run the development server:**
+   ```sh
    python manage.py runserver
+   ```
 
 ## Contributing
 
